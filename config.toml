@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
 [params]
+  sub		  = "Technology for the next generation"
   author	  = "Rehan S. Durrani"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
