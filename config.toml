@@ -1,4 +1,50 @@
-baseURL = "http://www.genxyztech.com/_index"
+baseurl = "/"
 languageCode = "en-us"
-title = "GenXYZ Tech"
-theme = "hugo-serif-theme"
+theme = "hugo-theme-hello-friend-ng"
+
+[params]
+  author	  = "Rehan S. Durrani"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "GenXYZ Tech Tech for the next generation"
+  keywords = "homepage, science, education, classes, cloud, iot, technology"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[languages]
+  [languages.en]
+    title = "GenXYZ Tech"
+    subtitle = "Technology for the next generation"
+    keywords = ""
+    copyright = ""
+
+    [languages.en.params.logo]
+      logoText = "genxyz tech"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about me"
+        name = "About Me"
+        url = "/about_me"
+      [[languages.en.menu.main]]
+        identifier = "courses"
+	name = "Courses"
+	url = "/courses"
+      [[languages.en.menu.main]]
+        identifier = "schedule"
+        name = "Schedule"
+        url = "/schedule"

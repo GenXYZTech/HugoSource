@@ -1,0 +1,7 @@
+---
+title: "Courses"
+date: 2019-03-28T19:55:49-07:00
+draft: false
+---
+# Blockchain, Machine Learning, the Internet of Things, and More: Meet the New Technologies Shaping Our World
+If you live in Silicon Valley, you can’t avoid hearing about new technologies that are changing the way we live our lives, do business, interact with people, communicate with machines, pay for products, drive cars, and accomplish other tasks. You’ve heard mentions of the Internet of Things (IoT), deep learning, blockchain, and other new transformative technologies. But maybe you’re not really sure what these technologies are, how they generally work, what everyday products they are living in now, and how they promise to further change our world. This course will help demystify these new emerging technologies. During this course, we will explore cloud computing, IoT and Industrial Internet of Things (IIoT), artificial intelligence, machine learning and deep learning, blockchain, edge computing, fog computing, DevOps, containers, serverless computing, and microservices, and how these technologies are transforming businesses and creating innovative solutions. We will break down what each technology is (for example, blockchain), how it works, and why it is useful. The course will draw examples from real-world products and applications. By the end of the course, students will have an understanding of the technological innovation taking place around them.
