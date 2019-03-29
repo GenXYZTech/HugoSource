@@ -1,4 +1,4 @@
-baseURL = "http://www.genxyztech.com/"
+baseURL = "http://www.genxyztech.com/_index"
 languageCode = "en-us"
 title = "GenXYZ Tech"
 theme = "hugo-serif-theme"
